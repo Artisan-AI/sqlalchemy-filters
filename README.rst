@@ -512,4 +512,3 @@ for details.
 .. _hybrid attribute: https://docs.sqlalchemy.org/en/13/orm/extensions/hybrid.html
 .. _hybrid property: https://docs.sqlalchemy.org/en/13/orm/extensions/hybrid.html#sqlalchemy.ext.hybrid.hybrid_property
 .. _hybrid method: https://docs.sqlalchemy.org/en/13/orm/extensions/hybrid.html#sqlalchemy.ext.hybrid.hybrid_method
-
